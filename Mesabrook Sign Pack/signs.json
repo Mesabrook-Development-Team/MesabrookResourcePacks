@@ -1,0 +1,279 @@
+{
+	"name": "Mesabrook Sign Pack Alpha",
+	"author": "Probablry and RavenholmZombie",
+	"pack_id": "254bc463-1122-45d5-b087-c825eb0fea43",
+	"types": 
+	{
+		"large": "Large Multi-Segmented Signs",
+		"shield": "Shields",
+		"custom": "Additions"
+	},
+	"signs": 
+	[
+		{
+			"id": "aa208a64-bbc1-4455-9de3-7bb3dc6678dd",
+			"name": "Mesabrook Shield",
+			"type": "shield",
+			"front": "mb.png",
+			"back": "shield back.png",
+			"textlines":
+			[
+				{
+					"label": "Road Number",
+					"x": 8,
+					"y": 6,
+					"width": 13.6,
+					"maxlength": 3,
+					"xscale": 8,
+					"yscale": 8,
+					"halign": "center",
+					"valign": "center",
+					"color": 0
+				}
+			]
+		},
+		{
+			"id": "e8295802-4f4e-4f37-8cc5-5162f8ab663a",
+			"name": "National Route Shield",
+			"type": "shield",
+			"front": "national.png",
+			"back": "shield back.png",
+			"textlines":
+			[
+				{
+					"label": "Route Number",
+					"x": 8,
+					"y": 8.5,
+					"width": 12.7,
+					"maxlength": 3,
+					"xscale": 8,
+					"yscale": 8,
+					"halign": "center",
+					"valign": "center",
+					"color": 16777215
+				}
+			]
+		},
+		{
+			"id": "5170880a-ad60-496b-9a81-8474fd0edaa6",
+			"name": "Freeway Shield",
+			"type": "shield",
+			"front": "freeway.png",
+			"back": "shield back.png",
+			"textlines":
+			[
+				{
+					"label": "Freeway Number",
+					"x": 8,
+					"y": 8,
+					"width": 12.7,
+					"maxlength": 3,
+					"xscale": 8,
+					"yscale": 8,
+					"halign": "center",
+					"valign": "center",
+					"color": 16777215
+				}			
+		]
+		},
+		{
+			"id": "6609e235-c853-40e1-a976-b225d1636f5b",
+			"name": "Gray Sign, Single",
+			"type": "large",
+			"front": "gray_single.png",
+			"back": "sign back.png",
+			"textlines":
+			[
+				{
+					"label": "Text",
+					"x": 8,
+					"y": 7,
+					"width": 13.6,
+					"maxlength": 20,
+					"xscale": 8,
+					"yscale": 8,
+					"halign": "center",
+					"valign": "center",
+					"color": 16777215
+				}
+			]
+		},
+		{
+			"id": "584a38b0-954d-4829-ab30-331244588cb7",
+			"name": "Large Gray Sign, Center",
+			"type": "large",
+			"front": "gray_center.png",
+			"back": "sign back.png",
+			"textlines":
+			[
+				{
+					"label": "Text",
+					"x": 8,
+					"y": 7,
+					"width": 48,
+					"maxlength": 20,
+					"xscale": 8,
+					"yscale": 8,
+					"halign": "center",
+					"valign": "center",
+					"color": 16777215
+				}
+			]
+		},
+		{
+			"id": "1b39ec3b-a4f6-44b0-9d01-6779ceea8692",
+			"name": "Large Gray Sign, Blank Left",
+			"type": "large",
+			"front": "gray_left.png",
+			"back": "sign back.png"
+		},
+		{
+			"id": "f20838e1-4252-41fe-a552-eac64e7fa7ff",
+			"name": "Large Gray Sign, Blank Right",
+			"type": "large",
+			"front": "gray_right.png",
+			"back": "sign back.png"
+		},
+		{
+			"id": "2b00f745-61a7-4943-bbae-112a5f2bfcf1",
+			"name": "Large Gray Sign, Left with Lower Arrow",
+			"type": "large",
+			"front": "gray_left_arrow_lower.png",
+			"back": "sign back.png"
+		},
+		{
+			"id": "fd954b0d-0a49-43fc-a72a-7a0dbb112f1a",
+			"name": "Large Gray Sign, Left with Upper Arrow",
+			"type": "large",
+			"front": "gray_left_arrow_upper.png",
+			"back": "sign back.png"
+		},
+		{
+			"id": "1b0486b5-cbad-4f65-949b-ea3a7fe0366b",
+			"name": "Large Gray Sign, Right with Upper Arrow",
+			"type": "large",
+			"front": "gray_right_arrow.png",
+			"back": "sign back.png"
+		},
+		{
+			"id": "d625b8f2-ea15-4434-8e28-8632621c23e9",
+			"name": "Large Gray Sign, Right with Right and Forward Arrows",
+			"type": "large",
+			"front": "gray_right_arrow_forward.png",
+			"back": "sign back.png"
+		},
+		{
+			"id": "b52df10c-7e84-4623-929a-057b1b9c789f",
+			"name": "Ravenholm City Diamond",
+			"type": "diamond",
+			"front": "rc.png",
+			"back": "back.png",
+			"textlines":
+			[
+				{
+					"label": "Road Number",
+					"x": 8,
+					"y": 6,
+					"width": 8.7,
+					"maxlength": 3,
+					"xscale": 7,
+					"yscale": 7,
+					"halign": "center",
+					"valign": "center",
+					"color": 0
+				}
+			]
+		},
+		{
+			"id": "e49f3834-24e5-4e10-9c4f-7f02b25bca89",
+			"name": "Nunskahchu Diamond",
+			"type": "diamond",
+			"front": "nk.png",
+			"back": "back.png",
+			"textlines":
+			[
+				{
+					"label": "Road Number",
+					"x": 8,
+					"y": 8,
+					"width": 8.7,
+					"maxlength": 3,
+					"xscale": 7,
+					"yscale": 7,
+					"halign": "center",
+					"valign": "center",
+					"color": 0
+				}
+			]
+		},
+		{
+			"id": "1b31e077-a856-4993-86dd-dfa7b6021fe4",
+			"name": "Town Limit Sign",
+			"type": "custom",
+			"front": "town limit sign.png",
+			"back": "town limit sign back.png",
+			"textlines":
+			[
+				{
+					"label": "Limit Type",
+					"x": 8,
+					"y": 1.7,
+					"width": 10,
+					"maxlength": 100,
+					"xscale": 3,
+					"yscale": 2.1,
+					"halign": "center",
+					"valign": "center",
+					"color": 16777215
+				},
+				{
+					"label": "Town Name",
+					"x": 8,
+					"y": 7.4,
+					"width": 15,
+					"maxlength": 100,
+					"xscale": 6,
+					"yscale": 4.5,
+					"halign": "center",
+					"valign": "center",
+					"color": 16777215
+				},
+				{
+					"label": "District",
+					"x": 8,
+					"y": 12.5,
+					"width": 10,
+					"maxlength": 100,
+					"xscale": 3,
+					"yscale": 2.1,
+					"halign": "center",
+					"valign": "center",
+					"color": 16777215
+				}
+
+			]
+		},
+		{
+			"id": "b1678b89-18c0-491e-9de1-653a84ad1da8",
+			"name": "White Triangle",
+			"type": "triangle",
+			"front": "white triangle.png",
+			"back": "triangle back.png",
+			"textlines":
+			[
+				{
+					"label": "Road Number",
+					"x": 7.5,
+					"y": 8.5,
+					"width": 9,
+					"maxlength": 3,
+					"xscale": 8,
+					"yscale": 8,
+					"halign": "center",
+					"valign": "center",
+					"color": 0
+				}
+			]
+		}
+	]
+}
