@@ -1,7 +1,7 @@
 {
 	"name": "Mesabrook Sign Pack Alpha",
 	"author": "Probablry and RavenholmZombie",
-	"pack_id": "254bc463-1122-45d5-b087-c825eb0fea43",
+	"pack_id": "1c7f8d5c-68cf-497a-a322-c6b8bc654e70",
 	"types": 
 	{
 		"large": "Large Multi-Segmented Signs",
@@ -267,6 +267,28 @@
 					"y": 8.5,
 					"width": 9,
 					"maxlength": 3,
+					"xscale": 8,
+					"yscale": 8,
+					"halign": "center",
+					"valign": "center",
+					"color": 0
+				}
+			]
+		},
+		{
+			"id": "286a5013-1115-4a34-af21-2a0e0e415a2d",
+			"name": "Green Direction Sign Center",
+			"type": "large",
+			"front": "green direction 1 centre.png",
+			"back": "direction 1 back.png",
+			"textlines":
+			[
+				{
+					"label": "Text",
+					"x": 7.5,
+					"y": 8.5,
+					"width": 14,
+					"maxlength": 80,
 					"xscale": 8,
 					"yscale": 8,
 					"halign": "center",
