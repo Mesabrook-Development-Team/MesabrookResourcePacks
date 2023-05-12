@@ -1,7 +1,7 @@
 {
-	"name": "Mesabrook Sign Pack Alpha",
+	"name": "Mesabrook Sign Pack",
 	"author": "Probablry and RavenholmZombie",
-	"pack_id": "fa2e198c-5f37-49ca-91e7-5523af7e3a32",
+	"pack_id": "49427aa4-b6e2-4b2a-895c-0a243c577cfd",
 	"types": 
 	{
 		"large": "Large Multi-Segmented Signs",
@@ -271,13 +271,13 @@
 					"yscale": 8,
 					"halign": "center",
 					"valign": "center",
-					"color": 0
+					"color": 16777215
 				}
 			]
 		},
 		{
 			"id": "286a5013-1115-4a34-af21-2a0e0e415a2d",
-			"name": "Green Direction Sign Center",
+			"name": "Green Direction Sign Center - One Line",
 			"type": "large",
 			"front": "green direction 1 centre.png",
 			"back": "direction 1 back.png",
@@ -286,14 +286,104 @@
 				{
 					"label": "Text",
 					"x": 7.5,
-					"y": 8.5,
-					"width": 14,
+					"y": 4.4,
+					"width": 48,
 					"maxlength": 80,
 					"xscale": 8,
 					"yscale": 8,
 					"halign": "center",
 					"valign": "center",
-					"color": 0
+					"color": 16777215
+				}
+			]
+		},
+		{
+			"id": "7768f8b5-8dcd-4893-9812-646c4ce658d4",
+			"name": "Green Direction Sign Center - Two Lines",
+			"type": "large",
+			"front": "green direction 2 centre.png",
+			"back": "direction 2 back.png",
+			"textlines":
+			[
+				{
+					"label": "Line 1",
+					"x": 7.5,
+					"y": 4.4,
+					"width": 48,
+					"maxlength": 80,
+					"xscale": 8,
+					"yscale": 8,
+					"halign": "center",
+					"valign": "center",
+					"color": 16777215
+				},
+				{
+					"label": "Line 1",
+					"x": 7.5,
+					"y": 11.5,
+					"width": 48,
+					"maxlength": 80,
+					"xscale": 8,
+					"yscale": 8,
+					"halign": "center",
+					"valign": "center",
+					"color": 16777215
+				}	
+			]
+		},
+		{
+			"id": "00046ff8-ff48-4da5-97a2-75cc9f5055aa",
+			"name": "Green Direction Sign Center - Bottom",
+			"type": "large",
+			"front": "green direction 3 bottom centre.png",
+			"back": "direction 3 bottom back.png",
+			"textlines":
+			[
+				{
+					"label": "Line 1",
+					"x": 7.5,
+					"y": 3,
+					"width": 48,
+					"maxlength": 80,
+					"xscale": 8,
+					"yscale": 8,
+					"halign": "center",
+					"valign": "center",
+					"color": 16777215
+				},
+				{
+					"label": "Line 1",
+					"x": 7.5,
+					"y": 10.1,
+					"width": 48,
+					"maxlength": 80,
+					"xscale": 8,
+					"yscale": 7.9,
+					"halign": "center",
+					"valign": "center",
+					"color": 16777215
+				}	
+			]
+		},
+		{
+			"id": "d683038e-b439-4654-b14e-afdd6a188486",
+			"name": "Green Direction Sign Center - Top",
+			"type": "large",
+			"front": "green direction 3 top centre.png",
+			"back": "direction 3 top back.png",
+			"textlines":
+			[
+				{
+					"label": "Text",
+					"x": 7.5,
+					"y": 12.1,
+					"width": 48,
+					"maxlength": 80,
+					"xscale": 8,
+					"yscale": 7,
+					"halign": "center",
+					"valign": "center",
+					"color": 16777215
 				}
 			]
 		},
@@ -303,6 +393,69 @@
 			"type": "custom",
 			"front": "accessible.png",
 			"back": "accessible_back.png"
+		},
+		{
+			"id": "2a6d90c5-e773-423f-bea8-1428e0540c64",
+			"name": "Green Direction Sign Left - Straight and Left Arrows",
+			"type": "large",
+			"front": "green direction 2 left straight and left.png",
+			"back": "direction 2 back.png"
+		},
+		{
+			"id": "bc25c266-089c-4cca-a519-7d97ac97b735",
+			"name": "Green Direction Sign Left - Top Straight Arrow",
+			"type": "large",
+			"front": "green direction 2 left straight.png",
+			"back": "direction 2 back.png"
+		},
+		{
+			"id": "124df138-4bff-422f-a770-0f064e0e1ff1",
+			"name": "Green Direction Sign Left - Blank",
+			"type": "large",
+			"front": "green direction 2 left.png",
+			"back": "direction 2 back.png"
+		},
+		{
+			"id": "e9b45018-dca0-41ae-ac23-d57e854bec47",
+			"name": "Green Direction Sign Right - Right Bottom Arrow",
+			"type": "large",
+			"front": "green direction 2 right right.png",
+			"back": "direction 2 back.png"
+		},
+		{
+			"id": "d53d1c7d-7adb-4a76-9a7c-85c2dde5f9fa",
+			"name": "Green Direction Sign Right - Blank",
+			"type": "large",
+			"front": "green direction 2 right.png",
+			"back": "direction 2 back.png"
+		},
+		{
+			"id": "51c811fc-85ac-498c-889f-82adb228e91b",
+			"name": "Green Direction Sign Bottom Left - Top Left Arrow",
+			"type": "large",
+			"front": "green direction 3 bottom left.png",
+			"back": "direction 3 bottom back.png"
+		},
+		{
+			"id": "ef25ae2a-0d0c-4ba8-908d-4938990c3989",
+			"name": "Green Direction Sign Bottom Right - Bottom Right Arrow",
+			"type": "large",
+			"front": "green direction 3 bottom right.png",
+			"back": "direction 3 bottom back.png"
+		},
+		{
+			"id": "c059c0ad-ec13-4f80-9b94-260af03dd7e7",
+			"name": "Green Direction Sign Top Left - Left Straight Arrow",
+			"type": "large",
+			"front": "green direction 3 top left.png",
+			"back": "direction 3 top back.png"
+		},
+		{
+			"id": "a409f137-fefc-41c1-b7dc-1a903cb38e3a",
+			"name": "Green Direction Sign Top Right - Blank",
+			"type": "large",
+			"front": "green direction 3 top right.png",
+			"back": "direction 3 top back.png"
 		}
 	]
 }
