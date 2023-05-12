@@ -1,7 +1,7 @@
 {
 	"name": "Mesabrook Sign Pack Alpha",
 	"author": "Probablry and RavenholmZombie",
-	"pack_id": "1c7f8d5c-68cf-497a-a322-c6b8bc654e70",
+	"pack_id": "fa2e198c-5f37-49ca-91e7-5523af7e3a32",
 	"types": 
 	{
 		"large": "Large Multi-Segmented Signs",
@@ -296,6 +296,13 @@
 					"color": 0
 				}
 			]
+		},
+		{
+			"id": "919165b2-cd5a-4cee-8aef-2647a5acee9e",
+			"name": "Accessible Parking Sign with Fine Notice",
+			"type": "custom",
+			"front": "accessible.png",
+			"back": "accessible_back.png"
 		}
 	]
 }
