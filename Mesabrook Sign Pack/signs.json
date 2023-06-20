@@ -1,7 +1,7 @@
 {
 	"name": "Mesabrook Sign Pack",
 	"author": "Probablry and RavenholmZombie",
-	"pack_id": "49427aa4-b6e2-4b2a-895c-0a243c577cfd",
+	"pack_id": "ad5191b2-bcb9-48f6-86f5-c63b53c355f9",
 	"types": 
 	{
 		"large": "Large Multi-Segmented Signs",
@@ -456,6 +456,27 @@
 			"type": "large",
 			"front": "green direction 3 top right.png",
 			"back": "direction 3 top back.png"
+		},
+		{
+			"id": "a10f3633-158d-4cff-9762-0c6963ec0e2a",
+			"name": "Mesabrook Bell Charging Station Ahead, Straight Arrow",
+			"type": "custom",
+			"front": "charging_station.png",
+			"back": "accessible_back.png"
+		},
+		{
+			"id": "1fcbfd9c-f135-458c-8e4b-c2bfe6c2932e",
+			"name": "Mesabrook Bell Charging Station Ahead, Left Arrow",
+			"type": "custom",
+			"front": "charging_station_left.png",
+			"back": "accessible_back.png"
+		},
+		{
+			"id": "78bf639b-3c79-4172-be69-1beb89e598fd",
+			"name": "Mesabrook Bell Charging Station Ahead, Right Arrow",
+			"type": "custom",
+			"front": "charging_station_right.png",
+			"back": "accessible_back.png"
 		}
 	]
 }
