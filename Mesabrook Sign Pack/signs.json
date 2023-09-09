@@ -1,7 +1,7 @@
 {
 	"name": "Mesabrook Sign Pack",
 	"author": "Probablry and RavenholmZombie",
-	"pack_id": "ad5191b2-bcb9-48f6-86f5-c63b53c355f9",
+	"pack_id": "4beb8ffd-0583-422f-9166-610cf0ffa2cb",
 	"types": 
 	{
 		"large": "Large Multi-Segmented Signs",
@@ -161,6 +161,13 @@
 			"type": "large",
 			"front": "gray_right_arrow_forward.png",
 			"back": "sign back.png"
+		},
+		{
+			"id": "f5794c23-a65e-4e47-8494-5830f00d4a25",
+			"name": "Right Turn, No Stop",
+			"type": "large",
+			"front": "rtns.png",
+			"back": "rtns back.png"
 		},
 		{
 			"id": "b52df10c-7e84-4623-929a-057b1b9c789f",
