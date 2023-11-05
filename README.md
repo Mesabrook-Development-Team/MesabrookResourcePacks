@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/5hYlFJ1.png" width=150>
+<img src="https://i.imgur.com/CDFfpBX.png" width=150>
 
 # Mesabrook Resource Packs Repository
 
