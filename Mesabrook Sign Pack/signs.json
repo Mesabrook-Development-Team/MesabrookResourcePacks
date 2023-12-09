@@ -1,7 +1,7 @@
 {
 	"name": "Mesabrook Sign Pack",
 	"author": "Probablry and RavenholmZombie",
-	"pack_id": "784a22bb-9f4b-465e-b70c-f4d822c87854",
+	"pack_id": "2fd0cc64-efa2-460c-92ca-472eafb61b9a",
 	"types": 
 	{
 		"large": "Large Multi-Segmented Signs",
@@ -126,6 +126,20 @@
 			"type": "large",
 			"front": "gray_left.png",
 			"back": "sign back.png"
+		},
+		{
+			"id": "7592f36b-1e1f-4da6-8f5e-18f528cf6171",
+			"name": "Engine Braking Prohibited",
+			"type": "custom",
+			"front": "ebp.png",
+			"back": "ebp back.png"
+		},
+		{
+			"id": "b916a5f7-f5fa-4678-a573-bce3eb96fbd8",
+			"name": "No Train Horn",
+			"type": "custom",
+			"front": "nth.png",
+			"back": "nth back.png"
 		},
 		{
 			"id": "5cda3491-8945-42ef-a631-250a7aaff67d",
